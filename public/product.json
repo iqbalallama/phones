@@ -1,0 +1,66 @@
+[
+	{
+	  "id" : 1,
+	  "name" : "Samsung",
+	  "model": "Galaxy A60",	
+	  "price": 24500,
+	  "img" : "https://www.gizmochina.com/wp-content/uploads/2019/06/Galaxy-A60-featured-546x546.jpg"
+	},
+	{
+	  "id" : 2,
+	  "name" : "Realme",
+	  "model": "Realme 7pro",	
+	  "price": 27990,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJ5G0TbQvXE7OBW0p5Ii7pU2_uARZ1E3NKA&usqp=CAU"
+	},
+	{
+	  "id" : 3,
+	  "name" : "Xiaomi",
+	  "model": "Readmi 9",	
+	  "price": 14999,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAYzwXn7p1_Yu0njhyVx2V35BAoYaxOJszww&usqp=CAU"
+	},
+	{
+	  "id" : 4,
+	  "name" : "Xiaomi",
+	  "model": "Mi A3",	
+	  "price": 21990,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSItqI1OG4vZ196idqmUtJcoYA8ZMzOr_KIuw&usqp=CAU"
+	},
+	{
+	  "id" : 5,
+	  "name" : "Nokia",
+	  "model": "G20",	
+	  "price": 15000,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV0ssxgMC6z7UqcWgM0E8X2_jp0uns9OG8ww&usqp=CAU"
+	},
+	{
+	  "id" : 6,
+	  "name" : "Walton",
+	  "model": "Primo R68",	
+	  "price": 13000,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtibgy4jXgDVT2nh-dLmvsKXvYOPFQSEjmA&usqp=CAU"
+	},
+	{
+	  "id" : 7,
+	  "name" : "Motorola",
+	  "model": "moto G Power",	
+	  "price": 16000,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluL3QuA5qM28smFU1A7w-vY48yDsvs6jXgw&usqp=CAU"
+	},
+	{
+	  "id" : 8,
+	  "name" : "OPPO",
+	  "model": "A 15",	
+	  "price": 14000,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkG69OZegT90iocOhi8ThovYvfZZbG2MYprw&usqp=CAU"
+	},
+	
+	{
+	  "id" : 9,
+	  "name" : "Vivo",
+	  "model": "v20",	
+	  "price": 28000,
+	  "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_kMzgZRkjFg5ZUhyUuSxomFbBwMTUJZrgg&usqp=CAU"
+	}
+]

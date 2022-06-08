@@ -1,0 +1,23 @@
+.header-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap:25px;
+}
+.products{
+   
+}
+.product-loop{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:10px;
+}
+.order{
+    position:sticky;
+    top: 0px;
+}
+@media screen and (max-width:500px ) {
+    .product-loop{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+}

@@ -1,0 +1,8 @@
+.product-item{
+    height: 400px;
+    margin-top: 30px;
+}
+.product-item img{
+    height: 300px;
+    margin: 0 auto;
+}
